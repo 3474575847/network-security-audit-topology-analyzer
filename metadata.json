@@ -1,0 +1,6 @@
+{
+  "name": "Network Security Audit & Topology Analyzer",
+  "description": "Educational network auditing dashboard for topology analysis, vulnerability risk assessment, and defensive security hardening.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
